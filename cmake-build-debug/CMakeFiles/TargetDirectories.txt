@@ -1,0 +1,3 @@
+C:/Users/Iwend/Documents/personal/coding_projects/EditionFinder/cmake-build-debug/CMakeFiles/EditionFinder.dir
+C:/Users/Iwend/Documents/personal/coding_projects/EditionFinder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iwend/Documents/personal/coding_projects/EditionFinder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
