@@ -8,8 +8,10 @@ set(CMAKE_C_STANDARD 11)
 include_directories("C:/Program Files/cJSON/install/include")
 link_directories("C:/Program Files/cJSON/install/lib")
 
+set(CURL_LIBRARY "C:/Program Files/curl/lib/libcurl.dll.a")
+set(CURL_INCLUDE_DIR "C:/Program Files/curl/include")
 find_package(CURL REQUIRED)
 include_directories(${CURL_INCLUDE_DIR})
 
-add_executable(EditionFinder main.c credentials.c)
+add_executable(EditionFinder main.c)
 target_link_libraries(EditionFinder ${CURL_LIBRARIES} cjson)

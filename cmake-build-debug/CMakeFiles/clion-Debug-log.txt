@@ -1,4 +1,5 @@
 "C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" "-DCMAKE_C_COMPILER=C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/gcc.exe" -G Ninja -S C:\Users\Iwend\Documents\personal\coding_projects\EditionFinder -B C:\Users\Iwend\Documents\personal\coding_projects\EditionFinder\cmake-build-debug
--- Configuring done (0.1s)
+-- Found CURL: C:/Program Files/curl/lib/libcurl.dll.a (found version "8.6.0")  
+-- Configuring done (0.2s)
 -- Generating done (0.0s)
 -- Build files have been written to: C:/Users/Iwend/Documents/personal/coding_projects/EditionFinder/cmake-build-debug

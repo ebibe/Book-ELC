@@ -1,4 +1,11 @@
 # ninja log v5
-87	1202	7320723652007199	CMakeFiles/EditionFinder.dir/credentials.c.obj	356b158e96996327
-2	3177	7320723672192891	CMakeFiles/EditionFinder.dir/main.c.obj	c1500ddc6d4daad
-3179	3332	7320723673714298	EditionFinder.exe	ee47a8bc83f7fa1f
+5	945	7351832330848730	CMakeFiles/EditionFinder.dir/main.c.obj	c1500ddc6d4daad
+946	1034	7351832331698847	EditionFinder.exe	90320152e3ae083d
+6	1077	7351833214619397	CMakeFiles/EditionFinder.dir/main.c.obj	c1500ddc6d4daad
+1078	1165	7351833215461260	EditionFinder.exe	90320152e3ae083d
+15	1399	7352215336878868	CMakeFiles/EditionFinder.dir/main.c.obj	c1500ddc6d4daad
+1400	1590	7352215338734681	EditionFinder.exe	90320152e3ae083d
+20	1560	7353465961540869	CMakeFiles/EditionFinder.dir/main.c.obj	c1500ddc6d4daad
+1561	2084	7353465966731903	EditionFinder.exe	90320152e3ae083d
+4	1110	7353468115640798	CMakeFiles/EditionFinder.dir/main.c.obj	c1500ddc6d4daad
+1111	1294	7353468117413699	EditionFinder.exe	90320152e3ae083d
